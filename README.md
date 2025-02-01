@@ -1,0 +1,1 @@
+This example demonstrates a common error in ActionScript 3 related to default parameter values. When calling a function with default parameters, if a non-last parameter is omitted, a compile-time error occurs.  The solution shows how to correctly handle this by either providing all parameters or restructuring the function's parameters.
